@@ -1,0 +1,3 @@
+Proje kapsamında geliştirlen sistem için yazılan Processing kodu hakkında:
+
+Processing ortamında yazılmış olan program ile toprakta yer alan nem miktarına göre çalışmakta olan otomatik sulama sistemini, aynı zamanda dışarıdan bir kullanıcının müdahalesiyle istenildiği zaman çalıştırılıp durdurulabilir hale getirmek amaçlanmıştır. Bu çalışmayı aktif kılabilmek adına, standart kütüphaneler ile bir grafiksel kullanıcı arayüz oluşturulmalı ve oluşturulan arayüz aracılığıyla Processing ortamının Arduino ortamı ile seri iletişimi sağlanmalıdır.
